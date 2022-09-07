@@ -1,5 +1,5 @@
 {
-  "name": "witwip",
+  "name": "@exosforked/witwip",
   "version": "0.0.6",
   "description": "Where in the world is package.json?",
   "main": "witwip.js",
